@@ -18,8 +18,3 @@ export const registerUser = async (userData) => { // Export : para a função po
     throw error;
   }
 };
-/*
- Neste exemplo, ele faz uma função assincrona e cria uma variavel chamada response
- para guardar o metodo post junto com o url + as respostas do usuario.
- Em seguida dele retorna as respostas.
-*/
