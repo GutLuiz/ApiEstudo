@@ -1,0 +1,9 @@
+É uma das coisas mais importantes para um projeto em react que lida com varios arquivos e conexões ter a melhor organização possivel para todo mundo conseguir entender o que está acontecendo em cada arquivos
+
+Pastas:
+    -> Components: Nela tem toda a configuração de arquivos que podem ser reaproveitados para as paginas(como por exemplo uma estilização de um butão)
+    -> Assets: Nela tera todas as imagens que seu programa tiver.
+    -> Configuração: Essa pasta depende muito do que o projeto precisa, mas é bem importante ter uma pasta separando as configuração do projeto.
+    -> pages: Nessa pasta terá todas paginas em tsx
+    -> Style: Nessa vai ter todas as estilizações de cada pagina 
+    -> network: Nessa pasta terá todas as conexões e requisições que seu programa tiver que chamar.
