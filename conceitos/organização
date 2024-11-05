@@ -7,3 +7,4 @@ Pastas:
     -> pages: Nessa pasta terá todas paginas em tsx
     -> Style: Nessa vai ter todas as estilizações de cada pagina 
     -> network: Nessa pasta terá todas as conexões e requisições que seu programa tiver que chamar.
+    -> Routes: Aqui tera todas as rotas que seu programa vai ter, para facilitar a organização do programa, voce so chama ela para app.tsx
